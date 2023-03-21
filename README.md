@@ -4,7 +4,7 @@ A Project that uses Bokeh for visualisations and draws insights from them.This i
 > This dataset was downloaded from the following link
 I performed two types of analysis,one that is geographical under the (BOKEH_VIZ) file and another one that is statistical.The latter can be found under the file named BOKEH_TAXI
 ## SUMMARY OF FINDINGS
-From the [BOKEH_VIZ](./BOKEH_VIZ.ipynb) file i concluded the following:
+From the [BOKEH_VIZ](./BOKEH_VIZ.ipynb)! file i concluded the following:
 
 1. Most people have favorite pickup and drop off locations hence there are some ID's that are ever busy
 2. Vendor ID 1 is way more active than ID 2,they have quite a large gap in terms of the number of trips
