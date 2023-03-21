@@ -2,9 +2,9 @@
 ## Introduction
 A Project that uses Bokeh for visualisations and draws insights from them.This is a prerequisite to join the Outreachy internship program
 > This dataset was downloaded from the following link
-I performed two types of analysis,one that is geographical under the [BOKEH_VIZ](./BOKEH_VIZ.ipynb)! file and another one that is statistical.The latter can be found under the file named [BOKEH_TAXI](./BOKEH_TAXI.ipynb)!
+I performed two types of analysis,one that is geographical under the [BOKEH_VIZ](./BOKEH_VIZ.ipynb) file and another one that is statistical.The latter can be found under the file named [BOKEH_TAXI](./BOKEH_TAXI.ipynb)
 ## SUMMARY OF FINDINGS
-From the [BOKEH_TAXI](./BOKEH_TAXI.ipynb)! file i concluded the following:
+From the [BOKEH_TAXI](./BOKEH_TAXI.ipynb) file i concluded the following:
 
 1. Most people have favorite pickup and drop off locations hence there are some ID's that are ever busy
 2. Vendor ID 1 is way more active than ID 2,they have quite a large gap in terms of the number of trips
@@ -12,7 +12,7 @@ From the [BOKEH_TAXI](./BOKEH_TAXI.ipynb)! file i concluded the following:
 
 
 
-From the [BOKEH_VIZ](./BOKEH_VIZ.ipynb)! file i had the following findings:
+From the [BOKEH_VIZ](./BOKEH_VIZ.ipynb) file i had the following findings:
  1. Effects of oversampling
 
 Visual clutter: Overplotting can make a plot appear visually cluttered, making it difficult to read and interpret. This can also lead to user fatigue and make it harder to discern patterns and trends in the data.
