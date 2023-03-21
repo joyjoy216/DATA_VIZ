@@ -1,4 +1,5 @@
 # PROJECT BY JOY AKINYI(NYC TAXI DATASET 2022 JANUARY)
+![bokeh](bokeh__logo.png)
 ## Introduction
 A Project that uses Bokeh for visualisations and draws insights from them.This is a prerequisite to join the Outreachy internship program
 > This dataset was downloaded from the following link https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.   
