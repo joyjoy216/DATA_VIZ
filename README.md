@@ -2,8 +2,11 @@
 ![bokeh](bokeh__logo.png)
 ## Introduction
 A Project that uses Bokeh for visualisations and draws insights from them.This is a prerequisite to join the Outreachy internship program
-> This dataset was downloaded from the following link https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.   
+> This dataset was downloaded from the following link https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page. 
+
 I performed two types of analysis,one that is geographical under the [BOKEH_VIZ](./BOKEH_VIZ.ipynb) file and another one that is statistical.The latter can be found under the file named [BOKEH_TAXIS](./BOKEH_TAXIS.ipynb).The plots for the statistical analysis are located at [plots_Viz](./plots_Viz) while those of the geographical analysis is located at [plots_Taxi](./plots_Taxi)
+
+I also did a **[blogpost](https://bl29.wordpress.com/2023/03/22/data-visualisation-using-bokehblog-post/)** on this analysis
 ## SUMMARY OF FINDINGS
 From the [BOKEH_TAXIS](./BOKEH_TAXIS.ipynb) file i concluded the following:
 
